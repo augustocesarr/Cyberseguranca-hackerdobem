@@ -1,0 +1,142 @@
+CiberSegurança - Hackers do Bem
+
+Hacker é um indivíduo que possui grandes 
+habilidades em computação e tecnologia. Capazes de
+criar softwares complexos, e com o passar do tempo
+esse termo foi atribuído para aqueles que usam suas
+habilidades para invadir sistemas sem permisões, 
+raubando dados e vazando informações sigilosas.
+
+Existem três tipos comuns de hackers: 
+
+White Hat Hackers(Chapéu Branco/Hackers Éticos): 
+
+  Eles tem o objetivo de encontrar vulnerabilidades
+de um sistema, e notificar a empresa contratante,
+esses hackers só invadem os sistemas que eles foram
+contratados para testarem as vulnerabilidades de 
+um determinado sistema de uma empresa, eles possuem
+uma série de regras a serem seguidos, e so podem 
+tentar invadir determinadas informações determinadas
+pela empresa.
+  
+Grey Hat Hackers:
+
+  Esse grupo de hacker ficam no meio termo entre os
+hacker white/black, e esse grupo de hackers, eles
+exploram vulnerabilidades de um sistema sem a autorização
+da empresa, e geralmente eles não ultilizão essa 
+vulnerabilidade para vazar os dados ou para beneficio
+propio, geralmente eles reportam essa vulnerabilidade
+a empresa, mas ele age sem a autorização prevía da
+empresa.
+
+Black Hat Hackers:
+
+  Já esse grupo de hackers eles tem por objetivo
+achar essas vulnerabilidade para beneficio proprio,
+ou até mesmo para vazar dados e prejudicar empresas.
+
+Além desses três tipos de rackers existem outros dois
+que também são bastante comuns, e eles são conhecidos
+como Hacktivista e Script Kiddies.
+
+Hacktivista: 
+
+  Esses hacker tem por objetivo ultilizar suas 
+habilidades para fazerem ataque cibernéticos
+para promover causas em que acreditam.
+
+Script Kiddies:
+
+  São um grupo de pessoas que não possuem muito 
+conhecimento e estão aprendendo, eles na maioria das
+vezes vão testar um script que vizeram com informações
+da internet, e ao testarem esse script conseguem
+invadir um sistema.
+
+Hacker Ético
+
+  Durante o teste, o hacker ético segue um estriro
+e rigoroso código de ética, que contempla os seguintes
+preicípios:
+
+Permissão, Confidencialidade, Integridade, Conformidade
+e Relatório
+
+Ciclo PDCA de um Hacker
+
+Planejar -> Executar -> Verificar -> Agir
+
+-----------------------------------------------------------
+
+Profissões em cibersegurança
+
+Red Team:Profissional que atua por meio de simulação de ataques contra empresas e organizações, com o objetivo de identificar e eliminar vulnerabilidades nos sistemas de defesa. Esse profissional precisa ter alto conhecimento sobre as principais ameaças e técnicas de invasão existente e atuais, e ser capaz de usar ferrametas e metodologias de hackers éticos.
+
+O trabalho do Red Team pode ser dividido em quatro etapas principais:
+
+Planejamento, Execução, Análise e Recomendação
+
+Planejamento:define o escopo, os objetivos, as regras e limites do teste de ciberataque 
+
+Execução:Coloca em prática as ações planejadas para tentar invadir o sistema, e coletar informações sobre o alvo, como endereço IP, dominios, portas abertas, serviços rodando, vulnerabilidades conhecidas.
+
+Phising: tentativa de golpes através de links maliciosos
+
+Brute force: Consiste nas varias tentavivas de acertar a senha de um usuário, existindo até algoritmos para essa tecnica
+
+SQL Injection:tecnica para fazer um código para injetar uma informação, ou alterar algum dado no Banco de dados da empresa
+
+------------------------------------------------------------- 
+Red Team também podem usar técnicas de engenharia social para enganar ou persuadir os fucionários da empresa para fornecerem informações ou acessos.
+
+Análise: Reúne e classifica as vulnerabilidades encontradas de acordo com seu nível de gravidade, probabilidade e urgência.
+
+Recomendação: apresenta os planos de ações para mitigar os ataques ciberneticos
+
+Conhecimentos avançados em Redes, Sistemas operacionais, protocolos, serviços e ferramentas de segurança;
+
+Conhecimento sobre as principais técnicas de invasão, injeção de código, spoofing, sniffing, entre outras;
+
+Conhecimento sobre as principais técnicas engenharia social, como phishing, vishing, baiting, entre outras;
+
+------------------------------------------------------------
+Blue Team: Responsável por defender os sistemas de informações. Eles concentram-se em manter e melhora a postura de segurança da organização, e reagir rapidamente aos ataques
+
+principais funções: Monitoramento, detecção, resposta, mitigação,
+
+habilidades: Redes, Sistemas operacionais, protocolos, serviços. 
+
+ferramentas de segurança: firewall, antivirus, criptografia, backup   
+
+técnicas de resposta e mitigação cibernética: análise forense, engenharia reversa, análise de malware 
+
+--------------------------------------------------------
+Forense: É um profissional tipo um perito, que tem como objetivo investigar evidêcias e incidentes digitas. O obejetivo é identificar e rastrear os autores e vítimas de crimes e incidentes ciberneticos.
+
+O Forense Digital é a ciência que aplica métodos cientif´cos para analisar dados e dispositivos digitais relacionados a crimes cibernéticos
+EX:fraudes, violações de direitos autorais, cyberbullyng, pornografia infantil, entre outros.
+
+Atividades: Coleta,Preservação, análise, apresentação
+
+-------------------------------------------------------------
+GRC- Governança, Risco e Conformidade
+
+DevSecOps - Development, Security e Operations
+
+Visa integrar e agilizar os processos entre as equipes de desenvolvimento e operações
+
+
+
+
+
+
+
+
+
+
+
+
+
+
